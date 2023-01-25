@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>分类测试文章</title>
+      <link href="/2023/01/24/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A01/"/>
+      <url>/2023/01/24/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A01/</url>
+      
+        <content type="html"><![CDATA[<h2 id="测试测试-hello-hello"><a href="#测试测试-hello-hello" class="headerlink" title="测试测试 hello hello"></a>测试测试 hello hello</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> C/C++ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C/C++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试文章</title>
       <link href="/2023/01/24/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
       <url>/2023/01/24/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
@@ -11,6 +36,18 @@
         <content type="html"><![CDATA[<h2 id="测试测试-hello-hello"><a href="#测试测试-hello-hello" class="headerlink" title="测试测试 hello hello"></a>测试测试 hello hello</h2>]]></content>
       
       
+      <categories>
+          
+          <category> 算法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 算法 </tag>
+            
+        </tags>
       
     </entry>
     
